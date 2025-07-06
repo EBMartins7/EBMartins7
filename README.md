@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EBMartins7
-- 👀 I’m interested in CLoud Engineering and Software development
-- 🌱 I’m currently learning Cloud Engineering and Kotlin
+- 👀 I’m interested in Software development
 - 💞️ I’m looking to collaborate on building software
 - 📫 How to reach me mbabalola79@gmail.com
 
